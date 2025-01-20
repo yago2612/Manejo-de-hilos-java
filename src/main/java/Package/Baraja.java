@@ -130,7 +130,7 @@ public class Baraja {
            //unir this.baraja con a
            // unir b con c
            //luego unir this.baraja con b
-           unir_barajas(a,b,c,d);
+           unir_barajas(b,a,c,d); // el orden se puede modificar en funcion de las uniones
            
         long endTime = System.currentTimeMillis();  // Marca el tiempo después de ejecutar el método
 
