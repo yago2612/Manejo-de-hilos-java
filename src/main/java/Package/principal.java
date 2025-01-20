@@ -11,7 +11,7 @@ package Package;
  */
 public class principal {
      public static void main(String[] args) {
-        Baraja b = new Baraja(1);
+        Baraja b = new Baraja(74,074);// el numero equibale a cuatas barajas completas suman 4 millones
         b.desordenarBaraja();
         b.mostrar_baraja();
         b.ordenar_Paralelo();
