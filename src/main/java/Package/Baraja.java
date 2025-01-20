@@ -14,7 +14,7 @@ import java.util.concurrent.Executors;
 import java.util.stream.Collectors;
 /**
  *
- * @author PC
+ * Yago Derem Solis Guerrero
  */
 public class Baraja {
     public List<Carta> baraja = new ArrayList();
