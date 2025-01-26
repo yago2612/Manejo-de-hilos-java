@@ -1,4 +1,4 @@
-# ProgramacionParalela_Cartas
+# Codigo secuencial y paralelo/concurrente
 Codigo de programa que gestiona un numero customizable de barajas de cartas de 54 cada una y las ordena por simbolo Corazon, Espada, Trebol y diamantes, numericamente de forma ascendente
 Objetivo:
 Mostrar las diferencias de tiempo de ejecucion de un metodo de ordenamiento secuencial y otro paralelo
